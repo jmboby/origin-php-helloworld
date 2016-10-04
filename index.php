@@ -1,5 +1,5 @@
 <?php
 
-echo "hello MSFT Houston from ".gethostname() .php_uname()
+echo "hello MSFT Houston from ".gethostname()
 
 ?>
