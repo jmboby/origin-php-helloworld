@@ -1,5 +1,5 @@
 <?php
 
-echo "Hola Houston from ".gethostname()
+echo "Hola Houston! This is from hotname: ".gethostname()
 
 ?>
